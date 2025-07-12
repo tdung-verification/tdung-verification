@@ -41,35 +41,11 @@
   <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-ti%E1%BA%BFn-d%C5%A9ng-a05538246/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- Thêm các kênh khác nếu có -->
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.verilog.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/>
+<a href="https://www.facebook.com/tiendung.duong.982292/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Intel_Quartus_Prime_Logo.png" alt="Quartus" width="40" height="40"/>
-  </a>
-  <a href="https://www.cadence.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cadence_logo.svg" alt="Cadence" width="40" height="40"/>
+  <a href="https://www.instagram.com/dungduong_bombk/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdung-verification&layout=compact&theme=default" alt="Top Languages" />
-</p>
